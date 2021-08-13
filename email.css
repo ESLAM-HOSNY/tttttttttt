@@ -1,0 +1,64 @@
+body{
+    
+    color:hsla(0, 0%, 100%, 0.75) ;
+}
+.root{
+    background-color: hsl(0, 0%, 95%);
+    display: inline-block;
+    margin: auto;
+    padding: 10%;
+
+}
+.one{background-color: hsl(31, 77%, 52%);
+
+}
+.bone{
+    color: hsl(31, 77%, 52%);
+}
+.two{
+    background-color: hsl(184, 100%, 22%);
+}
+.btwo{
+    color: hsl(184, 100%, 22%);
+}
+.three{
+background: hsl(179, 100%, 13%);
+}
+.bthree{
+    color: hsl(179, 100%, 13%);
+}
+.one , .two ,.three{
+    display:inline-block;
+    width: 33%;
+    height: 400px;
+    margin:-5px;
+}
+img{
+    padding:50px;
+    display: inline-block;
+    margin: -10%;
+}
+h1{
+    margin: 9%;
+    font-family: 'Big Shoulders Display', cursive;
+}
+pr {
+    display: inline-block;
+    margin-left: 9%;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+button{
+    margin: 9%;
+    height: 40px;
+    width: 130px;
+    border: 2px solid hsla(0, 0%, 100%, 0.75);
+    border-radius:28px ;
+    margin: 20%;
+    color:initial;
+    
+}
+
+
+  
